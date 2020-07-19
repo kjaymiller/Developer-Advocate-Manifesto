@@ -7,8 +7,6 @@ There are many wonderful developer advocates that are working on behalf of their
 
 Shouldn't developers be committed to helping one another to achieve successs as much as possible?
 
-> but the real goal of a Developer Advocate is to become the voice of the user. - Ashley McNamara "[What Is Developer Advocacy](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)"
-
 This is an document created hoping to identify allies in the growth of likeminded developers and willing to pass on advice and assistance as possible.
 
 ## The Manifesto
@@ -20,6 +18,15 @@ The Manifesto (as currently defined in [Manifesto.md](https://github.com/kjaymil
 * The things we build should not be used to discriminate or disadvantage others. I commit to creating ethical code and am willing to contribute it towards the success of others both in and out of development industry.
 
 It is my mission to help my fellow Developer in the growth of their knowledge and opportunity. I recognize the path to and through a Developer's career can be challenging and I agree to support them how I am able, wether at the beginning, middle, or end of that journey.
+
+
+## Why The Need for A Manifesto
+I think that most developers would look at this document and say "Yeah, I do that." but I want to challenge that idea. Not just in the idea of giving money but giving empathy and committing to action.
+
+Many folks want to point others to a blog post or conference talk, and while those are great ways to learn, they dismiss the conversation to be had, the fears to be addressed and the person that was just assigned homework to.
+
+Acting dismissive does not address some of the very real concerns, like imposter syndrome, fear of failure, and a lack of exposure to positive examples in the industry. 
+
 
 ## Agreeing to the Developer Advocate Manifesto
 Agree the Manifesto by
