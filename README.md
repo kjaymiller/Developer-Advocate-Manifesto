@@ -12,7 +12,7 @@ Shouldn't developers be committed to helping one another to achieve successs as 
 This is an document created hoping to identify allies in the growth of ALL developers willing to pass it forward. 
 
 ## The Manifesto
-The Manifesto (as currently defined in <Manifesto.md>)
+The Manifesto (as currently defined in [Manifesto.md](https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/master/Manifesto.md))
 
 * The value of the Developer is more important than the code they write or the company they write for.
 * The Developer should be valued and respected regardless of seniority, experience, or popularity.
