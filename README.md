@@ -1,6 +1,6 @@
 # Developer-Advocate-Manifesto
 ## What is the Developer Advocate Manifesto
-This is a living document that sets of guidelines for developers commited to advocating for their fellow dev.
+The [Developer Advocate Manifesto] is a living document that sets of guidelines for developers commited to advocating for their fellow dev.
 
 ## Origin
 There are many wonderful developer advocates that are working on behalf of their companies to build amazing communities. 
@@ -23,7 +23,8 @@ It is my mission to help my fellow Developer in the growth of their knowledge an
 
 ## Agreeing to the Developer Advocate Manifesto
 Agree the Manifesto by
- - forking it and including the [badge] on your website.
+ - forking this project and allowing it to exist in your github repo.
+ - including the [badge](https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/main/devadvocatemanifesto-badge.svg) on your website.
 
 ## Contributing to the Manifesto
 You can contribute to the manifesto by:
@@ -34,6 +35,15 @@ You can contribute to the manifesto by:
 Your name will be added to the Contributors.md file.
 
 ## Contributing to the Project
-The manifesto and all assets representing the manifesto and membership are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-
 Any technical work that is in support of the project is licensed under the MIT license.
+
+To contibute work to the Manifesto project:
+- submit an issue
+- have the issue approved as an addition to the project
+- fork the repo and make desired changes
+- submit changes as a pull request into the main project
+
+By doing so, Your name will be added as a contributor.
+
+## Using the Manifesto
+The manifesto and all assets representing the manifesto and membership are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
