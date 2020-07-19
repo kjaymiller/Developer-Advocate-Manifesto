@@ -9,7 +9,7 @@ Shouldn't developers be committed to helping one another to achieve successs as 
 
 > but the real goal of a Developer Advocate is to become the voice of the user. - Ashley McNamara "[What Is Developer Advocacy](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c)"
 
-This is an document created hoping to identify allies in the growth of ALL developers willing to pass it forward. 
+This is an document created hoping to identify allies in the growth of likeminded developers and willing to pass on advice and assistance as possible.
 
 ## The Manifesto
 The Manifesto (as currently defined in [Manifesto.md](https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/master/Manifesto.md))
