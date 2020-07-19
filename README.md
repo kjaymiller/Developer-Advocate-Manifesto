@@ -1,6 +1,6 @@
 # Developer-Advocate-Manifesto
 ## What is the Developer Advocate Manifesto
-The [Developer Advocate Manifesto] is a living document that sets of guidelines for developers commited to advocating for their fellow dev.
+The [Developer Advocate Manifesto][manifesto] is a living document that sets of guidelines for developers commited to advocating for their fellow dev.
 
 ## Origin
 There are many wonderful developer advocates that are working on behalf of their companies to build amazing communities. 
@@ -10,7 +10,7 @@ Shouldn't developers be committed to helping one another to achieve successs as 
 This is an document created hoping to identify allies in the growth of likeminded developers and willing to pass on advice and assistance as possible.
 
 ## The Manifesto
-The Manifesto (as currently defined in [Manifesto.md](https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/master/Manifesto.md))
+The Manifesto (as currently defined in [Manifesto.md][manifesto])
 
 * The value of the Developer is more important than the code they write or the company they write for.
 * The Developer should be valued and respected regardless of seniority, experience, or popularity.
@@ -55,3 +55,6 @@ By doing so, Your name will be added as a contributor.
 
 ## Using the Manifesto
 The manifesto and all assets representing the manifesto and membership are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+
+[manifesto]: https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/master/Manifesto.md
