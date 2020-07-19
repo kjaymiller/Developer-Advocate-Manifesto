@@ -27,6 +27,7 @@ Many folks want to point others to a blog post or conference talk, and while tho
 
 Acting dismissive does not address some of the very real concerns, like imposter syndrome, fear of failure, and a lack of exposure to positive examples in the industry. 
 
+I want to encouage active advocacy for each other in the developer community. This goes beyond the idea of a shout out or pointing someone to a resource. This is encouraging active development into the professional lives of our peers and the ability to build a more compassion and empathetic developer community. 
 
 ## Agreeing to the Developer Advocate Manifesto
 Agree the Manifesto by
