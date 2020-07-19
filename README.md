@@ -31,7 +31,7 @@ I want to encouage active advocacy for each other in the developer community. Th
 
 ## Agreeing to the Developer Advocate Manifesto
 Agree the Manifesto by
- - forking this project and allowing it to exist in your github repo.
+ - forking this project and allowing it to exist in your github profile.
  - including the [badge](https://github.com/kjaymiller/Developer-Advocate-Manifesto/blob/main/devadvocatemanifesto-badge.svg) on your website.
 
 ## Contributing to the Manifesto
