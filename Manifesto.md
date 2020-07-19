@@ -6,7 +6,7 @@
 
 - Although disagreements in practice may come, It is my responsibility to address differences with empathy and compassion with the desire to learn, teach, and grow.
 
-- We agree the things we build should not be used to discriminate or disadvantage others. We commit to creating ethical code and are willing to contribute it towards the success of others both in and out of development industry.
+- The things we build should not be used to discriminate or disadvantage others. We commit to creating ethical code and are willing to contribute it towards the success of others both in and out of development industry.
 
 It is my mission to help my fellow Developer in the growth of their knowledge and opportunity. I recognize the path to and through a Developer's career can be challenging and I agree to support them how I am able, wether at the beginning, middle, or end of that journey.
 
