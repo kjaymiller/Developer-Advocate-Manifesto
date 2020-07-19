@@ -21,7 +21,7 @@ It is my mission to help my fellow Developer in the growth of their knowledge an
 
 
 ## Why The Need for A Manifesto
-I think that most developers would look at this document and say "Yeah, I do that." but I want to challenge that idea. Not just in the idea of giving money but giving empathy and committing to action.
+I think that most developers would look at this document and say "Yeah, I do that," but I want to challenge that idea. Not just in the idea of giving money but giving empathy and committing to action.
 
 Many folks want to point others to a blog post or conference talk, and while those are great ways to learn, they dismiss the conversation to be had, the fears to be addressed and the person that was just assigned homework to.
 
